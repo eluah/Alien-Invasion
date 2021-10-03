@@ -17,7 +17,6 @@ loses a ship. If the player loses three ships, the game ends.
 - [Pygame](https://www.pygame.org/)
 
 ## :video_game: Controls
-
 - Space-bar
   - Shoot
 
@@ -25,9 +24,7 @@ loses a ship. If the player loses three ships, the game ends.
   - Move the ship left / right
 
 ## Playing the game
-
 ### Cloning the Repository
-
 ```
 $ git clone https://github.com/bryanlds/Alien-Invasion.git
 
@@ -35,11 +32,9 @@ $ cd Alien-Invasion
 ```
 
 ### Running 
-
 Run `alien_invasion.py` file from **alien_invasion** directory
 (i.e. `python3 alien_invasion.py`)
-## Quitting the game
 
+### Quitting the game
 The alien invasion game will start in fullscreen mode. To exit the game, type 'q'
 
-Enjoy!
