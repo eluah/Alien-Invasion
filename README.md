@@ -1,6 +1,5 @@
-# 👽 Alien Invasion
+# Alien Invasion
 Alien invasion is a clone of popular arcade game with same name.
-I created this game by following the "Python Crash Course" book. The reason was to improve my python skills.
 
 ## 🚀 Introduction
 > In Alien Invasion, the player controls a ship that appears at
@@ -25,7 +24,7 @@ loses a ship. If the player loses three ships, the game ends.
 - Arrows keys (left - right)
   - Move the ship left / right
 
-## ⚔ Let's play
+## Playing the game
 
 ### Cloning the Repository
 
@@ -37,8 +36,10 @@ $ cd Alien-Invasion
 
 ### Running 
 
-```
-$ python alien_invasion.py
-``` 
+Run `alien_invasion.py` file from **alien_invasion** directory
+(i.e. `python3 alien_invasion.py`)
+## Quitting the game
+
+The alien invasion game will start in fullscreen mode. To exit the game, type 'q'
 
 Enjoy!
